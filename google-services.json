@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729389222378",
+    "firebase_url": "https://teste-app-push-991b6.firebaseio.com",
+    "project_id": "teste-app-push-991b6",
+    "storage_bucket": "teste-app-push-991b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729389222378:android:1a009e8cf6290ee8",
+        "android_client_info": {
+          "package_name": "br.com.lunacore.awesome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729389222378-lk5aes1ac0de1rpqkd7r8pnhq94sedol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlckvbRp08rCd2Pb05z-Zzcx5j2ymHkdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
